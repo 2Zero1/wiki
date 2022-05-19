@@ -1,3 +1,3 @@
 # Hello
 
-[README](/README.md)
+[wiki](/wiki.md)
